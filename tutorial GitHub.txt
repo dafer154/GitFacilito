@@ -42,7 +42,7 @@ git add -A
 4.4)//Guardar los cambios con un mensaje
 git commit -m "Mi primer comentario"
 
-4.5)//comando para el log 
+4.5)//Nos da una lista con todos los commit que se han echo con su respectiva informacion
 git log
 
 4.6)//comando para apuntar al repositorio de internet para subir los archivos
@@ -55,6 +55,4 @@ git pull origin mastar
 git push origin master
 ---------------------------------------------------------------------------------------
 
-
-pruebaaaaaaaa
 
