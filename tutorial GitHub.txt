@@ -1,0 +1,60 @@
+
+
+1)Configurar cuenta de Git gub en el equipo
+
+1.1)//Configurar nombre 
+git config --global user.name "David"
+
+1.2)//Configurar Correo
+git config --global user.email "David_fza@hotmail.com"
+
+1.3)//Configurar Colores para poder diferenciarlos
+git config --global color.ui true
+
+1.4)//Lista de cambios
+git config --global --list
+----------------------------------------------------------------------------------------
+
+2) Crear repositorio en la pagina de GitHub
+---------------------------------------------------------------------------------------
+
+3) Crear proyecto en el computador
+---------------------------------------------------------------------------------------
+
+4)Paso a Paso para subir una carpeta a GitHub
+
+4.1)//Marca el inicio de nuestro proyecto(se puede parar dentro de la carpeta que se va a trabajar o se va a subir)
+	
+git init 
+
+4.2)//Comando de Status de los archivos(Nos permite saber como se encuentran los archivos dentro de la carpeta)
+git status
+
+4.3)//comando para agregar archivos
+git add "c:/tutorial/hola.txt"
+
+//agrega todos los archivos .txt
+git add "*.txt"
+
+//Agrega todos los archivos de la carpeta
+git add -a
+
+4.4)//Comando para agregar comentario
+git commit -m "Mi primer comentario"
+
+4.5)//comando para el log 
+git log
+
+4.6)//comando para apuntar al repositorio de internet para subir los archivos
+git remote add origin https://github.com/dafer154/miRepositorio
+
+4.7)//Comando para hacer pull
+git pull origin mastar
+
+4.8)//Comando para hacer push
+git push origin master
+---------------------------------------------------------------------------------------
+
+
+
+
