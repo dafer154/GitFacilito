@@ -37,9 +37,9 @@ git add "c:/tutorial/hola.txt"
 git add "*.txt"
 
 //Agrega todos los archivos de la carpeta
-git add -a
+git add -A
 
-4.4)//Comando para agregar comentario
+4.4)//Guardar los cambios con un mensaje
 git commit -m "Mi primer comentario"
 
 4.5)//comando para el log 
