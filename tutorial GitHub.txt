@@ -42,6 +42,12 @@ git add -A
 4.4)//Guardar los cambios con un mensaje
 git commit -m "Mi primer comentario"
 
+//Borrar commit es el mas simple
+git reset --soft
+
+//Borra Absolutamente todo el commit
+git reset --hard
+
 4.5)//Nos da una lista con todos los commit que se han echo con su respectiva informacion
 git log
 
