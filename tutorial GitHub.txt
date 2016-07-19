@@ -45,6 +45,12 @@ git commit -m "Mi primer comentario"
 4.5)//Nos da una lista con todos los commit que se han echo con su respectiva informacion
 git log
 
+// Se escoge el codigo bash del commit que quiere retomar denuevo
+git checkout jdlksjfd87f7suifjkjfldsjfdlksjf
+
+//Vuelve al ultimo commit realizado
+git checkout master 
+
 4.6)//comando para apuntar al repositorio de internet para subir los archivos
 git remote add origin https://github.com/dafer154/miRepositorio
 
