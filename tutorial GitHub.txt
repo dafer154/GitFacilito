@@ -51,6 +51,9 @@ git reset --hard
 4.5)//Nos da una lista con todos los commit que se han echo con su respectiva informacion
 git log
 
+//Se crea archivo del log para poder copiar y pegar los bash
+git log > commits.txt
+
 // Se escoge el codigo bash del commit que quiere retomar denuevo
 git checkout jdlksjfd87f7suifjkjfldsjfdlksjf
 
