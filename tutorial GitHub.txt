@@ -87,3 +87,6 @@ git branch -d test
 
 //Comando para fusionar ramas(se debe parar en la rama el cual va a absorver a la otra en este caso la rama master)
 git merge test
+
+//Comando para crear rama y colocarse en ella
+git checkout -b test
