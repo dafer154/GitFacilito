@@ -108,3 +108,19 @@ git remote remove origin
 
 //Comando para subir PUSH forzados
 git push origin master -f 
+
+TAG
+
+--------------------------------
+
+//COmando para tag
+git tag -a v2.0 - "Mi primer Tag"
+
+//ramas ocultas
+git branch -a
+
+//Bajar los cambios a la rama oculta
+git fetch origin
+
+//Manual merge
+
