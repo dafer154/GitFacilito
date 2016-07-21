@@ -85,4 +85,5 @@ git checkout test
 //Comando para borrar rama
 git branch -d test
 
-Probandooooooooo
+//Comando para fusionar ramas(se debe parar en la rama el cual va a absorver a la otra en este caso la rama master)
+git merge test
