@@ -90,3 +90,10 @@ git merge test
 
 //Comando para crear rama y colocarse en ella
 git checkout -b test
+
+-------------------------------------------------------------------------------------------
+GIT HUB
+
+//Comando para descargar carpeta de GitHub
+git clone https://github.com/meteor/meteor.git
+
