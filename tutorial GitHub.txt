@@ -97,3 +97,11 @@ GIT HUB
 //Comando para descargar carpeta de GitHub
 git clone https://github.com/meteor/meteor.git
 
+//comando para sincronizar los proyectos del PC con GitHUB
+git remote add origin https://github.com/dafer154/GitFacilito.git
+
+//Comando para comprobar la conexion
+git remote -v
+
+//Comando para borrar el remote
+git remote remove origin 
