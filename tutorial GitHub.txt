@@ -70,4 +70,14 @@ git pull origin mastar
 git push origin master
 ---------------------------------------------------------------------------------------
 
+---------------------------------------------------------------------------------------
+RAMAS
 
+//Comando para mostrar ramas
+git branch
+
+//comando para crear ramas
+git branch test
+
+//Comando para elegir la rama el cual se va a trabajar
+git checkout test
