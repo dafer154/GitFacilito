@@ -103,5 +103,8 @@ git remote add origin https://github.com/dafer154/GitFacilito.git
 //Comando para comprobar la conexion
 git remote -v
 
-//Comando para borrar el remote
+//Comandoooooo para borrar el remote
 git remote remove origin 
+
+
+INSTAGRAM
