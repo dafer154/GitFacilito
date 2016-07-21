@@ -82,5 +82,7 @@ git branch test
 //Comando para elegir la rama el cual se va a trabajar
 git checkout test
 
+//Comando para borrar rama
+git branch -d test
 
 Probandooooooooo
